@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 # Author - Christabel Ojobolo
 
 def add(a, b):
